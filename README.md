@@ -3,4 +3,4 @@
 Simple personal bookmark manager
 
 # Try it!
-https://bezel-test-site.netlify.app/
+https://my-bookmarker.netlify.app/
