@@ -1,0 +1,24 @@
+*
+{
+    font-family: 'Segoe UI light', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.divstyle
+{
+    width: 300px;
+    height: 300px;
+    background-color: blueviolet;
+}
+
+.warning{
+    background-color:#ffb2b2;
+    border-color: rgb(104, 0, 0) !important;
+    color:rgb(104, 0, 0) !important;
+    font-weight: 900;
+}
+
+.boomarkBtnPadding
+{
+    padding-left: 30%;
+}
