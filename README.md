@@ -1,4 +1,4 @@
-# Bookmark-JS-BOOTSTRAP-CSS
+# Simple-bookmark-manager
 
 Simple personal bookmark manager
 
